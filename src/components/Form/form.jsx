@@ -3,8 +3,7 @@ import "./Form.css";
 
 import {
   CountryDropdown,
-  RegionDropdown,
-  CountryRegionData,
+  RegionDropdown
 } from "react-country-region-selector";
 
 const emailRegex = RegExp(
